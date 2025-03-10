@@ -226,6 +226,21 @@ void Sum_First_Last_Digit(){
 }
 void Pallindrome(){
 
+	int n , temp,rem , res=0;
+	printf("Please Enter Any Number : \n");
+	scanf("%d",&n);
+
+	n = temp;
+
+	while(n != 0){ // 1221
+		rem = n%10;  // 1
+		n = n/10;    // 122
+		res =  rem    
+	}
+	
+
+	// 1221
+
 }
 void Pattern1(){
 
